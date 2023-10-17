@@ -6,7 +6,6 @@ index.dev.php
 frameworks/
 node_modules/
 ./vendor/
-projects/
 project/
 lib/
 .vscode/
